@@ -1,2 +1,8 @@
 *.zip
-*/datasets/*
+datasets/*
+*.jpg
+*.png
+*.jpeg
+*.h5
+*.csv
+
